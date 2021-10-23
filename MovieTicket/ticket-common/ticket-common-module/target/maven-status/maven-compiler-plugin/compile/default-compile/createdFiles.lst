@@ -1,0 +1,16 @@
+com\xiaobao\mall\pojo\DmItemComment.class
+com\xiaobao\mall\pojo\DmSchedulerSeat.class
+com\xiaobao\mall\pojo\DmOrderLinkUser.class
+com\xiaobao\mall\pojo\DmCinemaSeat.class
+com\xiaobao\mall\pojo\DmScheduler.class
+com\xiaobao\mall\pojo\DmCinema.class
+com\xiaobao\mall\pojo\DmKeywordSort.class
+com\xiaobao\mall\pojo\DmItemType.class
+com\xiaobao\mall\pojo\DmSchedulerSeatPrice.class
+com\xiaobao\mall\pojo\DmTrade.class
+com\xiaobao\mall\pojo\DmLinkUser.class
+com\xiaobao\mall\pojo\DmArea.class
+com\xiaobao\mall\pojo\DmUser.class
+com\xiaobao\mall\pojo\DmImage.class
+com\xiaobao\mall\pojo\DmItem.class
+com\xiaobao\mall\pojo\DmOrder.class
