@@ -11,6 +11,9 @@
 
     <artifactId>ticket-env-project</artifactId>
     <packaging>pom</packaging>
+    <modules>
+        <module>ticket-eureka-server</module>
+    </modules>
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>

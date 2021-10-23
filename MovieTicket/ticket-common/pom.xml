@@ -12,9 +12,9 @@
     <artifactId>ticket-common</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>tacket-common-client</module>
-        <module>tacket-common-module</module>
-        <module>tacket-common-utils</module>
+        <module>ticket-common-client</module>
+        <module>ticket-common-module</module>
+        <module>ticket-common-utils</module>
     </modules>
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
